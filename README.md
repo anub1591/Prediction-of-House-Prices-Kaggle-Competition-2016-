@@ -18,7 +18,7 @@ In this assignment, we are trying to predict the house prices, so SalePrice is t
 
 EXPLORATORY DATA ANALYSIS
 
-In order to explore the data, we have used a library known as Data Explorer library. It helps in easy EDA (Exploratory Data Analysis). EDA refers to the process of summarizing and analyzing the data sets as per their characteristics and often involves visual methods. It is a process of carefully observing the data and what the data tell us beyond modeling or hypothesis testing. With the help of Data Explorer library, we have created various charts which can be observed in the code file.
+In order to explore the data, we have used a library known as Data Explorer library. It helps in easy EDA (Exploratory Data Analysis). EDA refers to the process of summarizing and analyzing the data sets as per their characteristics and often involves visual methods. It is a process of carefully observing the data and what the data tell us beyond modeling or hypothesis testing. With the help of Data Explorer library, we have created various charts which can be observed in the code file i.e. Data Mining Project.R .
 
 
 OUTPUT / PREDICTION
