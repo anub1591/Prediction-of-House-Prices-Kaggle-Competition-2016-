@@ -22,10 +22,12 @@ In order to explore the data, we have used a library known as Data Explorer libr
 
 
 OUTPUT / PREDICTION
+
 The output i.e. the prediction of house prices is contained in a csv file named House_Prices.csv attached in the repository.
    
  
 PRESENTATION
+
 The Powerpoint file i.e. Presentation.pptx gives the brief view of the steps followed in the project along with the findings and conclusions.
 
  
